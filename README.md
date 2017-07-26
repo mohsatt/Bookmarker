@@ -2,7 +2,7 @@
 Simple JS app to bookmark URL made via https://youtu.be/DIVfDZZeGxM
 
 Tools used: 
-- Bootsrap
+- Bootstrap
 - Local Storage
 - HTML, CSS, Javascript
 
